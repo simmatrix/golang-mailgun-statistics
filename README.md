@@ -25,6 +25,7 @@ func main() {
 ```
 
 ## Install and Run
+First of all, run the following command to download this package into your Go workspace
 ```
 go get github.com/simmatrix/golang-mailgun-statistics
 ```
