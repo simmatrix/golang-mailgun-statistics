@@ -1,6 +1,6 @@
 # GoLang Mailgun Statistics (Events API)
 
-> This is my maiden voyage of GoLang, I have a task in my company in which I would need to pull statistics from Mailgun, I have decided to take this opportunity to write it with Go instead. Should you have any feedback or suggestions, please email to simmatrix100@gmail.com and share your thoughts and help me grow. Thank you.
+> This is my maiden voyage of GoLang, I have a task in my company in which I would need to pull statistics from Mailgun, I have decided to take this opportunity to write it with Go instead. Should you have any feedback or suggestions, please email to simmatrix100@gmail.com and share your thoughts and let's grow together. Thank you. :)
 
 ## Configuration
 
@@ -37,4 +37,5 @@ Through this practice, I have learned how to do the following in Go:
 
 ## Notes
 
-Mailgun retains this detailed data for two days for free accounts and 30 days for paid accounts. As for the sample returned JSON data from Mailgun, you may refer to the [official documentation](https://documentation.mailgun.com/en/latest/api-events.html#event-structure)
+- Mailgun retains detailed data for two days for free accounts and 30 days for paid accounts.
+- For the sample of returned JSON data from Mailgun, you may refer to the [official documentation](https://documentation.mailgun.com/en/latest/api-events.html#event-structure)
