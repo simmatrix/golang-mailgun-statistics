@@ -24,6 +24,22 @@ func main() {
 }
 ```
 
+## Install and Run
+```
+go get github.com/simmatrix/golang-mailgun-statistics
+```
+Navigate to your Go workspace's `src/github.com/simmatrix/golang-mailgun-statistics`, modify the file `golang-mailgun-statistics.go` by keying in your Mailgun's private and public keys, followed by the Mailgun domains that you would like to read from, then run:
+```
+go run golang-mailgun-statistics.go
+```
+
+## Optional
+You can also install it to your Go workspace's `bin/` directory. Make sure you're at  `src/github.com/simmatrix/golang-mailgun-statistics`, then run:
+```
+go install
+```
+Then you may directly run `golang-mailgun-statistics` in your terminal (Note: Provided that you have added your Go workspace's `bin/` directory to your environment path)
+
 ## Thoughts
 
 Through this practice, I have learned how to do the following in Go:
