@@ -33,4 +33,8 @@ Through this practice, I have learned how to do the following in Go:
 - How to deal with file system
 - How to do essential things (e.g. looping, variable declaration etc.)
 - How to handle errors
-- How to do deal with strings (e.g. replacement, conversion etc.)
+- How to deal with strings (e.g. replacement, conversion etc.)
+
+## Notes
+
+Mailgun retains this detailed data for two days for free accounts and 30 days for paid accounts. As for the sample returned JSON data from Mailgun, you may refer to the [official documentation](https://documentation.mailgun.com/en/latest/api-events.html#event-structure)
